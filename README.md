@@ -159,7 +159,7 @@ Mobile-friendly dashboard
 
 👨‍💻 Author
 
-Your Name
+Devesh Prajapat 
 Data Analyst | Power BI Developer
 
 ⭐ If you like this project
